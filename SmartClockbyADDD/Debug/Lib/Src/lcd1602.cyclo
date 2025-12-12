@@ -1,0 +1,13 @@
+../Lib/Src/lcd1602.c:36:13:LCD_Delay	2
+../Lib/Src/lcd1602.c:45:13:LCD_WriteCommand	1
+../Lib/Src/lcd1602.c:68:13:LCD_WriteData	1
+../Lib/Src/lcd1602.c:87:6:LCD_RecoveryInit	1
+../Lib/Src/lcd1602.c:123:6:LCD_HardReset	1
+../Lib/Src/lcd1602.c:203:6:LCD_Init	1
+../Lib/Src/lcd1602.c:238:6:LCD_Clear	1
+../Lib/Src/lcd1602.c:247:6:LCD_SetCursor	2
+../Lib/Src/lcd1602.c:256:6:LCD_WriteString	2
+../Lib/Src/lcd1602.c:266:6:LCD_WriteChar	1
+../Lib/Src/lcd1602.c:274:6:LCD_WriteNumber	3
+../Lib/Src/lcd1602.c:290:6:LCD_DisplayControl	4
+../Lib/Src/lcd1602.c:302:6:LCD_CreateChar	2

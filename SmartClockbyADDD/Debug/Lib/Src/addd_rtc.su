@@ -1,0 +1,7 @@
+../Lib/Src/addd_rtc.c:5:26:RTC_EnterInitMode	24	static
+../Lib/Src/addd_rtc.c:32:26:RTC_ExitInitMode	24	static
+../Lib/Src/addd_rtc.c:51:17:RTC_ReadTimeCounter	32	static
+../Lib/Src/addd_rtc.c:83:26:RTC_WriteTimeCounter	24	static
+../Lib/Src/addd_rtc.c:110:19:ADDD_RTC_SetTime	24	static
+../Lib/Src/addd_rtc.c:116:12:ADDD_RTC_GetTime	24	static
+../Lib/Src/addd_rtc.c:121:6:ADDD_RTC_Init	48	static

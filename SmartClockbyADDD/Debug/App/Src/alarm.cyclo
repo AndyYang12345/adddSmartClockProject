@@ -1,0 +1,12 @@
+../App/Src/alarm.c:13:6:ValidateAlarmTime	7
+../App/Src/alarm.c:34:6:SaveAlarmFromLine1	1
+../App/Src/alarm.c:53:6:AdjustAlarmDigit	17
+../App/Src/alarm.c:104:10:CalculateAlarmChecksum_16bit	1
+../App/Src/alarm.c:122:9:SaveAlarmToStorage	5
+../App/Src/alarm.c:182:13:ProcessAlarmDirectInput	12
+../App/Src/alarm.c:252:6:AlarmEditModeCompact	42
+../App/Src/alarm.c:467:6:AlarmViewMode	8
+../App/Src/alarm.c:537:9:LoadAlarmFromStorage	2
+../App/Src/alarm.c:573:9:AlarmCheck	5
+../App/Src/alarm.c:592:6:AlarmAlert	7
+../App/Src/alarm.c:667:9:IsAlarmEnabled	1

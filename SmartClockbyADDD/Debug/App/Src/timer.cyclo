@@ -1,0 +1,12 @@
+../App/Src/timer.c:3:6:TimInit	1
+../App/Src/timer.c:28:6:Timer_Init	1
+../App/Src/timer.c:45:13:FormatTimerTime	1
+../App/Src/timer.c:61:13:FormatLapTime	1
+../App/Src/timer.c:77:13:UpdateTimerDisplay	9
+../App/Src/timer.c:144:13:RecordLap	2
+../App/Src/timer.c:162:6:ResetTimer	1
+../App/Src/timer.c:176:13:HandleLapNavigation	4
+../App/Src/timer.c:192:6:TimerMode	20
+../App/Src/timer.c:285:6:HAL_TIM_PeriodElapsedCallback	3
+../App/Src/timer.c:300:9:IsStopwatchRunningInBackground	1
+../App/Src/timer.c:307:10:GetStopwatchCurrentTime	1

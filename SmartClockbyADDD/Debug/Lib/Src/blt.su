@@ -1,0 +1,4 @@
+../Lib/Src/blt.c:4:6:TimeToBLE	16	static
+../Lib/Src/blt.c:12:16:MapBluetoothToPhysicalKey	16	static
+../Lib/Src/blt.c:23:6:HAL_UART_RxCpltCallback	24	static
+../Lib/Src/blt.c:39:6:Bluetooth_Init	16	static

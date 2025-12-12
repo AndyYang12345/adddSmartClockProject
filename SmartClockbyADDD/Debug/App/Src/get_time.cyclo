@@ -1,0 +1,13 @@
+../App/Src/get_time.c:18:7:GetTime	3
+../App/Src/get_time.c:43:7:GetWeekday	1
+../App/Src/get_time.c:47:6:ShowTime	5
+../App/Src/get_time.c:94:6:CreateArrowChars	1
+../App/Src/get_time.c:169:9:SaveTimeToRTC	2
+../App/Src/get_time.c:179:6:SaveTimeFromLine1	1
+../App/Src/get_time.c:203:9:GetDaysInMonth	5
+../App/Src/get_time.c:230:6:ValidateDay	5
+../App/Src/get_time.c:253:6:AdjustCurrentDigit	29
+../App/Src/get_time.c:327:6:ValidateSettingTime	12
+../App/Src/get_time.c:363:13:ProcessDirectInput	22
+../App/Src/get_time.c:463:6:DateTimeEditModeCompact	43
+../App/Src/get_time.c:701:6:ChangeTime	1
